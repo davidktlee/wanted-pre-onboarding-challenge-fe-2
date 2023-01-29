@@ -2,7 +2,7 @@
 
 ## Usage
 
-
+[Todo Docs](https://davidktlee.github.io/wanted-pre-onboarding-challenge-fe-2/docs/global.html)
 
 ### Install
 
